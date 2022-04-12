@@ -1,0 +1,4 @@
+bindingBusinessOper()
+{
+	return 0;
+}

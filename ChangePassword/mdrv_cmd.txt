@@ -1,0 +1,1 @@
+-usr "F:\MSI\ChangePassword\ChangePassword.usr" -compile_only -out "F:\MSI\ChangePassword\" -drv_log_file "F:\MSI\ChangePassword\mdrv.log" -cfg "F:\MSI\ChangePassword\default.cfg" -product_name vugen

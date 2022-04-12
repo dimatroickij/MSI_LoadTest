@@ -1,0 +1,9 @@
+f:\msi\changepassword\\pre_cci.c: vuser_init.c:137: error: undeclared identifier `try'
+f:\msi\changepassword\\pre_cci.c: vuser_init.c:137: warning: expression with no effect elided
+f:\msi\changepassword\\pre_cci.c: vuser_init.c:137: error: syntax error; found `{' expecting `;'
+f:\msi\changepassword\\pre_cci.c: vuser_init.c:149: error: undeclared identifier `catch'
+f:\msi\changepassword\\pre_cci.c: vuser_init.c:149: warning: expression with no effect elided
+f:\msi\changepassword\\pre_cci.c: vuser_init.c:149: error: syntax error; found `{' expecting `;'
+f:\msi\changepassword\\pre_cci.c: vuser_init.c:254: warning: declaration of `generateLastPassword' does not match previous declaration at vuser_init.c:155
+f:\msi\changepassword\\pre_cci.c: ChangePassword.c:62: warning: declaration of `generatePassword' does not match previous declaration at ChangePassword.c:15
+f:\msi\changepassword\\pre_cci.c: f:\\msi\\changepassword\\\\combined_ChangePassword.c:7: error: 4 errors, not writing pre_cci.ci

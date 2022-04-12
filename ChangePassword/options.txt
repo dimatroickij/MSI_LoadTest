@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IF:\MSI\ChangePassword
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ef:\msi\changepassword\\logfile.log
+f:\msi\changepassword\\combined_ChangePassword.c
+f:\msi\changepassword\\pre_cci.c

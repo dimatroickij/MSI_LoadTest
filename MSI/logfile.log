@@ -1,0 +1,3 @@
+f:\msi\msi\\pre_cci.c: EditMainAttr.c:435: warning: declaration of `generateSNILS' does not match previous declaration at EditMainAttr.c:362
+f:\msi\msi\\pre_cci.c: EditMainAttr.c:489: warning: declaration of `generateText' does not match previous declaration at EditMainAttr.c:366
+f:\msi\msi\\pre_cci.c: EditPassword.c:276: warning: declaration of `generatePassword' does not match previous declaration at EditPassword.c:219

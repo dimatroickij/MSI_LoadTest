@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IF:\MSI\MSI
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ef:\msi\msi\\logfile.log
+f:\msi\msi\\combined_MSI.c
+f:\msi\msi\\pre_cci.c

@@ -1,0 +1,4 @@
+bindingEndpoint()
+{
+	return 0;
+}
